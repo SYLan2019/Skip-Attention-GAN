@@ -1,6 +1,7 @@
 # Skip-Attention-GANomaly
 
-This repository contains PyTorch implementation of the following paper: **SAGAN: SKIP-ATTENTION GAN FOR ANOMALY DETECTION**. You can get the paper from [link](https://ieeexplore.ieee.org/document/9506332)
+This repository contains PyTorch implementation of the following paper: **SAGAN: SKIP-ATTENTION GAN FOR ANOMALY DETECTION**.
+You can get the paper from [link](https://ieeexplore.ieee.org/document/9506332)
 
 ## 1. Installation
 
